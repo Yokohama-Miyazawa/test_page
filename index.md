@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## ようこそGitHubテストページへ
 
-You can use the [editor on GitHub](https://github.com/Yokohama-Miyazawa/test_page/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+このページの管理およびプレビューは，[editor on GitHub](https://github.com/Yokohama-Miyazawa/test_page/edit/master/index.md)を参照してください．
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+このリポジトリをコミットすると，[Jekyll](https://jekyllrb.com/)が実行され，GitHubページが再構築されます．
 
-### Markdown
+### マークダウン
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+マークダウンは↓みたいな感じで使えます．
 
 ```markdown
 Syntax highlighted code block
@@ -26,7 +26,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+詳しくは[GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)をご覧ください.
 
 ### Jekyll Themes
 
