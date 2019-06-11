@@ -4,5 +4,6 @@
 @import "{{ site.theme }}";
 
 body{
-  background-color: #5bc0de;
+  font: Arial;
+  color: #00ff00;
 }
